@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "714264044158",
+    "project_id": "trauriger-button",
+    "storage_bucket": "trauriger-button.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714264044158:android:a85825ea4f4ae48971ee2f",
+        "android_client_info": {
+          "package_name": "com.example.sad_sad_button_not_working"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVLafyNe6CXWVzgHSeByqxmrMprc0WCdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
